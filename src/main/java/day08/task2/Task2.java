@@ -1,7 +1,6 @@
 package day08.task2;
 
 import java.time.Duration;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 

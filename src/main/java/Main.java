@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-            day01();
+
+        System.out.println("Java Tasks");
         }
 
-    public static void day01() {}
+
 }
